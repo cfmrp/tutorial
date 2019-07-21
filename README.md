@@ -1,5 +1,3 @@
-# tutorial
-
 Graph-Based Meaning Representations: Design and Processing
 ----------------------------------------------------------
 
@@ -16,6 +14,6 @@ representative selection of different parsing approaches.
 Authors
 -------
 
-+ [Alexander Koller]{http://www.coli.uni-saarland.de/~koller} <koller@coli.uni-saarland.de>
-+ [Stephan Oepen]{https://www.mn.uio.no/ifi/english/people/aca/oe/} <oe@ifi.uio.no>
-+ [Weiwei Sun]{https://wsun106.github.io/} <ws@pku@edu.cn>
++ [Alexander Koller](http://www.coli.uni-saarland.de/~koller) (koller@coli.uni-saarland.de)
++ [Stephan Oepen](https://www.mn.uio.no/ifi/english/people/aca/oe/) (oe@ifi.uio.no)
++ [Weiwei Sun](https://wsun106.github.io/) (ws@pku.edu.cn)
