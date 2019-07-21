@@ -20,6 +20,6 @@ Authors
 License
 -------
 
-![alt text](https://mirrors.creativecommons.org/presskit/icons/cc.png)
-![alt text](https://mirrors.creativecommons.org/presskit/icons/by.png)
-![alt text](https://mirrors.creativecommons.org/presskit/icons/sa.png)
+![cc](https://mirrors.creativecommons.org/presskit/icons/cc.png)
+![by](https://mirrors.creativecommons.org/presskit/icons/by.png)
+![sa](https://mirrors.creativecommons.org/presskit/icons/sa.png)
