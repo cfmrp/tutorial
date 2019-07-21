@@ -1,5 +1,7 @@
 # tutorial
-Tutorial on ‘Graph-Based Meaning Representations: Design and Processing’ (ACL 2019)
+
+Graph-Based Meaning Representations: Design and Processing
+----------------------------------------------------------
 
 This tutorial is on representing and processing _sentence meaning_
 in the form of _labeled directed graphs_.
